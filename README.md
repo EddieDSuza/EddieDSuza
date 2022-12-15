@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EddieDSuza
-- 👀 I’m interested in DIY Smart Homes that Support HomeKit
+- 👀 I’m interested in DIY Smart Homes that Supports HomeKit
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Smart Homes
 - 📫 How to reach me - info@buildasmarthome.org
