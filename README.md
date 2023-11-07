@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EddieDSuza
+- 👋 Hi, I’m @EddieDSuza your friendly Smart Home Consultant
 - 👀 I’m interested in DIY Smart Homes that Supports HomeKit
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux & DevOps. 
 - 💞️ I’m looking to collaborate on Smart Homes
 - 📫 How to reach me - info@buildasmarthome.org
 - And don't forget to subscribe to my YouTube Channel:
